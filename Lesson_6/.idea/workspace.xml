@@ -177,10 +177,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="31.01.2020" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1580490952604">
+    <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1580681133578">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1580490952604" />
+    <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1580681133578" />
     <state width="1323" height="178" key="GridCell.Tab.0.bottom" timestamp="1580681008912">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -197,6 +197,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="178" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1580681008912" />
+    <state x="275" y="98" key="Vcs.Push.Dialog.v2" timestamp="1580681138168">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="98" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1580681138168" />
     <state x="339" y="166" key="run.anything.popup" timestamp="1580676739949">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
