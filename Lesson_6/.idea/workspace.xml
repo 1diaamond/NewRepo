@@ -8,7 +8,7 @@
       <change afterPath="$PROJECT_DIR$/../Example3/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Example3/.idea/project-template.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Example3/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/al/work4/Work4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/al/work5/Work5.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../PracticalWork1/.idea/description.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../PracticalWork1/.idea/encodings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../PracticalWork1/.idea/misc.xml" afterDir="false" />
@@ -38,6 +38,7 @@
       <change afterPath="$PROJECT_DIR$/../example1/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../example1/out/production/example1/com/alfabank/example1/Main.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../example1/src/com/alfabank/example1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -177,7 +178,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580681215402</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="31.01.2020">
+      <created>1580681304990</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1580681304990</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -185,10 +193,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="31.01.2020" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1580681214063">
+    <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1580681303686">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1580681214063" />
+    <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1580681303686" />
     <state width="1323" height="178" key="GridCell.Tab.0.bottom" timestamp="1580681008912">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -205,10 +213,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="178" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1580681008912" />
-    <state x="275" y="98" key="Vcs.Push.Dialog.v2" timestamp="1580681219626">
+    <state x="275" y="98" key="Vcs.Push.Dialog.v2" timestamp="1580681307267">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="98" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1580681219626" />
+    <state x="275" y="98" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1580681307267" />
     <state x="339" y="166" key="run.anything.popup" timestamp="1580676739949">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
