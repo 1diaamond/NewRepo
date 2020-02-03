@@ -13,15 +13,13 @@ public class Work4 {
         String z = "";
         while ((number/2) > 0 ) {
             if ((number % 2) > 0) {
-                z += "1";
+                z = "1" + z;
             } else {
-                z += "0";
+                z = "0" + z;
             }
             number /= 2;
         }
-        z+="1";
-        StringBuffer sb = new StringBuffer(z);
-        String x = "" + sb.reverse();
-        return x;
+        z ="1"+ z;
+        return z;
     }
 }

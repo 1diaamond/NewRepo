@@ -8,7 +8,6 @@
       <change afterPath="$PROJECT_DIR$/../Example3/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Example3/.idea/project-template.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Example3/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/al/work5/Work5.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../PracticalWork1/.idea/description.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../PracticalWork1/.idea/encodings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../PracticalWork1/.idea/misc.xml" afterDir="false" />
@@ -185,7 +184,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580681304990</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="31.01.2020">
+      <created>1580683424075</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1580683424075</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -193,30 +199,30 @@
     <option name="LAST_COMMIT_MESSAGE" value="31.01.2020" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1580681303686">
+    <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1580683422772">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1580681303686" />
-    <state width="1323" height="178" key="GridCell.Tab.0.bottom" timestamp="1580681008912">
+    <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1580683422772" />
+    <state width="1323" height="178" key="GridCell.Tab.0.bottom" timestamp="1580683432401">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="178" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1580681008912" />
-    <state width="1323" height="178" key="GridCell.Tab.0.center" timestamp="1580681008911">
+    <state width="1323" height="178" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1580683432401" />
+    <state width="1323" height="178" key="GridCell.Tab.0.center" timestamp="1580683432401">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="178" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1580681008911" />
-    <state width="1323" height="178" key="GridCell.Tab.0.left" timestamp="1580681008911">
+    <state width="1323" height="178" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1580683432401" />
+    <state width="1323" height="178" key="GridCell.Tab.0.left" timestamp="1580683432401">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="178" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1580681008911" />
-    <state width="1323" height="178" key="GridCell.Tab.0.right" timestamp="1580681008912">
+    <state width="1323" height="178" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1580683432401" />
+    <state width="1323" height="178" key="GridCell.Tab.0.right" timestamp="1580683432401">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="178" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1580681008912" />
-    <state x="275" y="98" key="Vcs.Push.Dialog.v2" timestamp="1580681307267">
+    <state width="1323" height="178" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1580683432401" />
+    <state x="275" y="98" key="Vcs.Push.Dialog.v2" timestamp="1580683426539">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="98" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1580681307267" />
+    <state x="275" y="98" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1580683426539" />
     <state x="339" y="166" key="run.anything.popup" timestamp="1580676739949">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
