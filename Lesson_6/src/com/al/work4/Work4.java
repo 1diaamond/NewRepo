@@ -11,7 +11,7 @@ public class Work4 {
     }
     public static String convertDecimalToBinary (int number) {
         String z = "";
-        while ((number/2) > 0 ) {
+        while (number > 0 ) {
             if ((number % 2) > 0) {
                 z = "1" + z;
             } else {
@@ -19,7 +19,6 @@ public class Work4 {
             }
             number /= 2;
         }
-        z ="1"+ z;
         return z;
     }
 }
